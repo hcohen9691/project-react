@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.size-image {
+  width: 100px;
+  height: 100px;
+}
+
+.p-l-12 {
+  padding-left: 12px;
+}
+
+.p-r-12 {
+  padding-right: 12px;
+}
+
+.decoration-line-underline {
+  text-decoration-line: underline
+}
+
+.font-size {
+  font-size: larger
+}
+
+.custom-text {
+  background: white;
+  background-clip: text;
+  padding: 5px;
+  color: #212529;
+  border-radius: 10px;
+  border-color: #212529;
+  border: 2px solid;
+  margin-bottom: inherit;
+  list-style-type: square;
+}
+
+
+.p-border {
+  align-items: center;
+  padding: 12px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-block: 40px
+}
+
+.p-types {
+  padding-left: 12px;
+  padding-top: 14.5%;
+  padding-right: 12px;
+}
+
+.p-b-15 {
+  padding-bottom: 15px;
+}
+
+.b-r-10 {
+  border-radius: 10px
+}
+
+.title-year {
+  width: 70%;
+  text-align: center;
+}
+
+.page-container {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
